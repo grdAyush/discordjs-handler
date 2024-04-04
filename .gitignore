@@ -1,0 +1,8 @@
+node_modules
+# Keep environment variables out of version control
+.env
+Archive.zip
+bun.lockb
+package-lock.json
+Readme.md
+dist
